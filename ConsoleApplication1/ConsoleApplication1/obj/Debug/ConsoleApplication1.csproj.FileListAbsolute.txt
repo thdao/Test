@@ -1,0 +1,8 @@
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+D:\Development\GitHub\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
